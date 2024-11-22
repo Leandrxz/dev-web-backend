@@ -12,7 +12,7 @@
 
 - Cadastro de pacientes com nome e ID auto-incrementado.
 - Persistência de dados no PostgreSQL.
-- API REST para gerenciar pacientes - Endpoints (POST / DELETE).
+- API REST para gerenciar pacientes - Endpoints (POST / GET).
 
 ---
 
